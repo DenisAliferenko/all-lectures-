@@ -1,0 +1,15 @@
+D:\все лекции С#\Task2\bin\Debug\net6.0\Task2.exe
+D:\все лекции С#\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\все лекции С#\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\все лекции С#\Task2\bin\Debug\net6.0\Task2.dll
+D:\все лекции С#\Task2\bin\Debug\net6.0\Task2.pdb
+D:\все лекции С#\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\все лекции С#\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\все лекции С#\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\все лекции С#\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\все лекции С#\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\все лекции С#\Task2\obj\Debug\net6.0\Task2.dll
+D:\все лекции С#\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\все лекции С#\Task2\obj\Debug\net6.0\Task2.pdb
+D:\все лекции С#\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\все лекции С#\Task2\obj\Debug\net6.0\ref\Task2.dll
