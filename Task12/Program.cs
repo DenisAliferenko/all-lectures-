@@ -21,6 +21,28 @@ void PrintArray(int[] col)
     }
 }
 
-int[] array = new int[10]; // определили что массив из 10 элементов
+int IndexOf(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int position = -1;
+
+    while (index < count)
+    {
+        if (collection[index] == find)
+        {
+            position = index;
+            break;
+        }
+        index++;
+    }
+    return position;
+}
+
+int[] array = new int[10]; // дословно создай массив из 10 элементов. определили что массив из 10 элементов
 FillArray(array); // этот медот как раз и заполнил нам массив через Void
 PrintArray(array); // этот метод нам распечатал массив 
+Console.WriteLine();
+
+int pos = IndexOf(array, 4);
+Console.WriteLine(pos);
