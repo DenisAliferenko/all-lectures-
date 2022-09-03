@@ -1,43 +1,24 @@
-﻿Console.Clear();
-int xa = 40, ya = 1,
-    xb = 1, yb = 30,
-    xc = 80, yc = 30;
+﻿int a1 = 198;
+int b1 = 1;
+int c1 = 24;
+int a2 = 234;
+int b2 = 32;
+int c2 = 33;
+int a3 = 49;
+int b3 = 12;
+int c3 = 1541;
+int max = a1;
 
-Console.SetCursorPosition(xa, ya);
-Console.WriteLine("+");
+if(b1 > max) max = b1;
+if(c1 > max) max = b1;
 
-Console.SetCursorPosition(xb, yb);
-Console.WriteLine("+");
+if(a2 > max) max = a1;
+if(b2 > max) max = b2;
 
-Console.SetCursorPosition(xc, yc);
-Console.WriteLine("+");
+if(c2 > max) max = c2;
 
-int x = xa, y = xb;
+if(a3 > max) max = a3;
+if(b3 > max) max = b3;
+if(c3 > max) max = c3;
 
-int count = 0;
-while (count < 20);
-{
-    int what = new Random().Next(0, 3);
-  
-    if (what == 0)
-    {
-        x = (x + xa)/2;
-        y = (y + ya)/2; 
-    }
- 
-    if (what == 1)
-    {
-        x = (x + xb) / 2;
-        y = (y + yb) / 2; 
-    }
-
-    if (what == 2)
-    {
-        x = (x + xc) / 2;
-        y = (y + yc) / 2; 
-    }
-
-    Console.SetCursorPosition(x, y);
-    Console.WriteLine("+");
-    count++;
-}
+Console.WriteLine(max);
