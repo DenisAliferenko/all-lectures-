@@ -1,0 +1,15 @@
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\Task7v2.csproj.AssemblyReference.cache
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\Task7v2.GeneratedMSBuildEditorConfig.editorconfig
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\Task7v2.AssemblyInfoInputs.cache
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\Task7v2.AssemblyInfo.cs
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\Task7v2.csproj.CoreCompileInputs.cache
+D:\все лекции С#\Task7v2\bin\Debug\net6.0\Task7v2.exe
+D:\все лекции С#\Task7v2\bin\Debug\net6.0\Task7v2.deps.json
+D:\все лекции С#\Task7v2\bin\Debug\net6.0\Task7v2.runtimeconfig.json
+D:\все лекции С#\Task7v2\bin\Debug\net6.0\Task7v2.dll
+D:\все лекции С#\Task7v2\bin\Debug\net6.0\Task7v2.pdb
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\Task7v2.dll
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\refint\Task7v2.dll
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\Task7v2.pdb
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\Task7v2.genruntimeconfig.cache
+D:\все лекции С#\Task7v2\obj\Debug\net6.0\ref\Task7v2.dll
