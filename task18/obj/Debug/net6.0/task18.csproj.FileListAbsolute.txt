@@ -1,0 +1,15 @@
+D:\все лекции С#\task18\bin\Debug\net6.0\task18.exe
+D:\все лекции С#\task18\bin\Debug\net6.0\task18.deps.json
+D:\все лекции С#\task18\bin\Debug\net6.0\task18.runtimeconfig.json
+D:\все лекции С#\task18\bin\Debug\net6.0\task18.dll
+D:\все лекции С#\task18\bin\Debug\net6.0\task18.pdb
+D:\все лекции С#\task18\obj\Debug\net6.0\task18.csproj.AssemblyReference.cache
+D:\все лекции С#\task18\obj\Debug\net6.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+D:\все лекции С#\task18\obj\Debug\net6.0\task18.AssemblyInfoInputs.cache
+D:\все лекции С#\task18\obj\Debug\net6.0\task18.AssemblyInfo.cs
+D:\все лекции С#\task18\obj\Debug\net6.0\task18.csproj.CoreCompileInputs.cache
+D:\все лекции С#\task18\obj\Debug\net6.0\task18.dll
+D:\все лекции С#\task18\obj\Debug\net6.0\refint\task18.dll
+D:\все лекции С#\task18\obj\Debug\net6.0\task18.pdb
+D:\все лекции С#\task18\obj\Debug\net6.0\task18.genruntimeconfig.cache
+D:\все лекции С#\task18\obj\Debug\net6.0\ref\task18.dll
